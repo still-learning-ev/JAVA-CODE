@@ -1,1 +1,1 @@
-
+Find all substrings of the string in O(N2) complexity generally it is O(N3).
