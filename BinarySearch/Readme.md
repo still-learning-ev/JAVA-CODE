@@ -1,4 +1,5 @@
-*** BinarySearch Recurive and Iterative.
+BinarySearch Recurive and Iterative.
+***
 --- BinarySearch for arrays in descending order.
 ---  BinarySearch for finding Peak in mountain.
 --- BinarySearch for finding target in mountain array.
